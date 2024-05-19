@@ -8,7 +8,7 @@ Learn college Precalculus from an experienced university mathematics professor. 
 
 ### Video Chapters Overzicht
 
- To-Do | YouTube Link  | MPV Command |
+ To-Do | Chapter Link  | MPV Command |
 |-------|--------------|-------------|
 | - [x]  1. Introduction | [00:00:00](https://www.youtube.com/watch?v=Y8oZtFYweTY&t=0) | mpv https://www.youtube.com/watch?v=Y8oZtFYweTY --start=00:00:00 |
 | - [x] 2. Get Data | [00:00:24](https://www.youtube.com/watch?v=Y8oZtFYweTY&t=24) | mpv https://www.youtube.com/watch?v=Y8oZtFYweTY --start=00:00:24 |
