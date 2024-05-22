@@ -15,7 +15,7 @@ Learn college Precalculus from an experienced university mathematics professor. 
 |  3. Draw Lines ✔️| [00:04:48](https://www.youtube.com/watch?v=Y8oZtFYweTY&t=288) | mpv https://www.youtube.com/watch?v=Y8oZtFYweTY --start=00:04:48 |
 |  4. Trigonometry basics ✔️| [00:36:17](https://www.youtube.com/watch?v=Y8oZtFYweTY&t=2177) | mpv https://www.youtube.com/watch?v=Y8oZtFYweTY --start=00:36:17 |
 |  5. Solve Right Triangles ✔️| [00:46:19](https://www.youtube.com/watch?v=Y8oZtFYweTY&t=2779) | mpv https://www.youtube.com/watch?v=Y8oZtFYweTY --start=00:46:19 |
-|  6. Degrees and radians | [01:06:16](https://www.youtube.com/watch?v=Y8oZtFYweTY&t=3976) | mpv https://www.youtube.com/watch?v=Y8oZtFYweTY --start=01:06:16 |
+|  6. Degrees and radians ✔️| [01:06:16](https://www.youtube.com/watch?v=Y8oZtFYweTY&t=3976) | mpv https://www.youtube.com/watch?v=Y8oZtFYweTY --start=01:06:16 |
 |  7. Unit Circle | [01:25:01](https://www.youtube.com/watch?v=Y8oZtFYweTY&t=5101) | mpv https://www.youtube.com/watch?v=Y8oZtFYweTY --start=01:25:01 |
 |  8. Trigonometry and Graphing | [01:37:08](https://www.youtube.com/watch?v=Y8oZtFYweTY&t=5828) | mpv https://www.youtube.com/watch?v=Y8oZtFYweTY --start=01:37:08 |
 |  9. The Six Trig Graphs | [01:59:28](https://www.youtube.com/watch?v=Y8oZtFYweTY&t=7168) | mpv https://www.youtube.com/watch?v=Y8oZtFYweTY --start=01:59:28 |
